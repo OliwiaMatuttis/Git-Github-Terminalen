@@ -40,7 +40,8 @@ git push - Kommando som överför innehåll från VS Code till Github.[Källa](h
 
 Jag lärde mig att med hjälp av '#' kan jag skapa rubriker samt hur man länkar källor på ett snyggt sätt. I samma källa lärde jag mig även hur man bifogar en söt bild som nedan. [Källa](https://intra.kth.se/administration/kommunikation/webb/verktyg/formularhantering/markdown-syntax-1.701701)
 
-![En söt katt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fcat-png-images-transparent-hd-photo-clipart--965881451303510567%2F&psig=AOvVaw0LimHHMIh5kgFJv0ezsmas&ust=1726168532257000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjOj4TNu4gDFQAAAAAdAAAAABAE)
+![png-transparent-cat-animal-lovely-cat](https://github.com/user-attachments/assets/3887964c-b0a9-4d2d-aada-0250e3b0cd32)
+
 
 
 
